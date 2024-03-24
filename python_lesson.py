@@ -10,7 +10,7 @@ from google_auth_oauthlib.flow import InstalledAppFlow
 from google.auth.transport.requests import Request
 
 # Discordボットのトークン
-DISCORD_TOKEN = "OTYxMjg4MjEyMzE4NDAwNTUy.GtX9eS.fXcI4xqtuajOgMDG6D5ZRWNU6N2K9kTybpExgE"
+DISCORD_TOKEN = "DISCORD_TOKEN"
 
 # GoogleカレンダーAPIの設定
 SCOPES = ['https://www.googleapis.com/auth/calendar']
